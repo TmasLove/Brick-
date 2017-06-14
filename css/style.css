@@ -1,0 +1,22 @@
+body {
+  background-color: gray;
+}
+
+canvas {
+	background-color: #000;
+	border: 3px solid #267357;
+}
+
+.start-page {
+  text-align: center;
+  position: relative;
+  top: 169px;
+}
+.menu {
+  width: 200px;
+  height: 80px;
+  border: 1px solid black;
+  position: relative;
+  text-align: center;
+  padding-top: 13px;
+}
