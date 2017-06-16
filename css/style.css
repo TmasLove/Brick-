@@ -34,7 +34,7 @@ p.how {
   color: #C6D3EC;
 }
 
-button#startButton {
+#startButton {
   background-color: #0F2A2E;
   padding: 5px;
   border-radius: 2px;
